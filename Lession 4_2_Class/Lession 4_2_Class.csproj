@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Lession_4_2_Class</RootNamespace>
-    <AssemblyName>Lession_4_2_Class</AssemblyName>
+    <AssemblyName>Lession 4_2_Class</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
