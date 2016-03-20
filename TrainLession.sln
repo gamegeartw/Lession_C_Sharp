@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession 3_Switch", "Lession 3_Switch\Lession 3_Switch.csproj", "{983F67AA-3B98-44B3-B2FF-34787EB1ED65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession 3_Foreach", "Lession 3_Foreach\Lession 3_Foreach.csproj", "{A062E4EC-D6CD-41A1-BA15-49E724CAB04C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983F67AA-3B98-44B3-B2FF-34787EB1ED65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983F67AA-3B98-44B3-B2FF-34787EB1ED65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983F67AA-3B98-44B3-B2FF-34787EB1ED65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983F67AA-3B98-44B3-B2FF-34787EB1ED65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A062E4EC-D6CD-41A1-BA15-49E724CAB04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A062E4EC-D6CD-41A1-BA15-49E724CAB04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A062E4EC-D6CD-41A1-BA15-49E724CAB04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A062E4EC-D6CD-41A1-BA15-49E724CAB04C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
