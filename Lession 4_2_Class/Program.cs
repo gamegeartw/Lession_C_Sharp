@@ -17,8 +17,15 @@ namespace Lession_4_2_Class
 
     class MyClass
     {
+        public MyClass()        //Init Class,a special method ,if you don't do this,complier will do default
+        {
 
+        }
         
+        ~MyClass()  //Dispose class,but it is not necessary
+        {
+           
+        }
     }
 }
 namespace myNameSpace
