@@ -13,5 +13,31 @@ namespace Lession_5_2_Controllers
         {
 
         }
+
+        protected void txtBirthday_TextChanged(object sender, EventArgs e)
+        {
+          
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Calendar1.Visible = true;
+        }
+
+        protected void Calendar1_SelectionChanged(object sender, EventArgs e)
+        {
+            txtBirthday.Text = Calendar1.SelectedDate.ToString();
+        }
+
+        protected void rbtnBoy_CheckedChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        protected void rbtnGirl_CheckedChanged(object sender, EventArgs e)
+        {
+
+            
+        }
     }
 }
